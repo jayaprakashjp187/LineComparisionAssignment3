@@ -44,7 +44,7 @@ namespace LineComparision
             {
                 Console.WriteLine("two length of lines are equal");
             }
-            else if(length1>=length2)
+            else if(length1>length2)
             {
                 Console.WriteLine("length of line1 is greater than length of line2");
             }
